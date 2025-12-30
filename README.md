@@ -1,4 +1,4 @@
-# HUR Hormonal Health App
+# HER Hormonal Health App
 
 A React web app that educates users about the four hormonal phases and provides personalized routines and tips. This app includes a step-by-step onboarding flow to create a personalized profile for each user based on their menstrual cycle, lifestyle, and preferences.
 
